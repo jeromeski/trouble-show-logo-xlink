@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.logo {
+  fill: black;
+}
+
+.logo-wrapper {
+  height: 10rem;
+  width: 10rem;
+  background-color: lightgray;
+  margin: 0 auto;
+}
+
+.logo-one {
+  fill: black;
+  height: 5rem;
+  width: 5rem;
+}
+
+.logo-two {
+  fill: black;
+  height: 5rem;
+  width: 5rem;
+}
